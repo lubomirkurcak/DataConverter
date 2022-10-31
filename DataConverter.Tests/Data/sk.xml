@@ -1,0 +1,189 @@
+<root>
+  <name>
+    <common>Slovakia</common>
+    <official>Slovak Republic</official>
+    <nativeName>
+      <slk>
+        <official>Slovenská republika</official>
+        <common>Slovensko</common>
+      </slk>
+    </nativeName>
+  </name>
+  <tld>.sk</tld>
+  <cca2>SK</cca2>
+  <ccn3>703</ccn3>
+  <cca3>SVK</cca3>
+  <cioc>SVK</cioc>
+  <independent>true</independent>
+  <status>officially-assigned</status>
+  <unMember>true</unMember>
+  <currencies>
+    <EUR>
+      <name>Euro</name>
+      <symbol>€</symbol>
+    </EUR>
+  </currencies>
+  <idd>
+    <root>+4</root>
+    <suffixes>21</suffixes>
+  </idd>
+  <capital>Bratislava</capital>
+  <altSpellings>SK</altSpellings>
+  <altSpellings>Slovak Republic</altSpellings>
+  <altSpellings>Slovenská republika</altSpellings>
+  <region>Europe</region>
+  <subregion>Central Europe</subregion>
+  <languages>
+    <slk>Slovak</slk>
+  </languages>
+  <translations>
+    <ara>
+      <official>جمهورية سلوفاكيا</official>
+      <common>سلوفاكيا</common>
+    </ara>
+    <bre>
+      <official>Republik Slovak</official>
+      <common>Slovakia</common>
+    </bre>
+    <ces>
+      <official>Slovenská republika</official>
+      <common>Slovensko</common>
+    </ces>
+    <cym>
+      <official>Slovak Republic</official>
+      <common>Slovakia</common>
+    </cym>
+    <deu>
+      <official>Slowakische Republik</official>
+      <common>Slowakei</common>
+    </deu>
+    <est>
+      <official>Slovaki Vabariik</official>
+      <common>Slovakkia</common>
+    </est>
+    <fin>
+      <official>Slovakian tasavalta</official>
+      <common>Slovakia</common>
+    </fin>
+    <fra>
+      <official>République slovaque</official>
+      <common>Slovaquie</common>
+    </fra>
+    <hrv>
+      <official>slovačka</official>
+      <common>Slovačka</common>
+    </hrv>
+    <hun>
+      <official>Szlovák Köztársaság</official>
+      <common>Szlovákia</common>
+    </hun>
+    <ita>
+      <official>Repubblica slovacca</official>
+      <common>Slovacchia</common>
+    </ita>
+    <jpn>
+      <official>スロバキア共和国</official>
+      <common>スロバキア</common>
+    </jpn>
+    <kor>
+      <official>슬로바키아 공화국</official>
+      <common>슬로바키아</common>
+    </kor>
+    <nld>
+      <official>Slowaakse Republiek</official>
+      <common>Slowakije</common>
+    </nld>
+    <per>
+      <official>جمهوری اسلواکی</official>
+      <common>اِسلُواکی</common>
+    </per>
+    <pol>
+      <official>Republika Słowacka</official>
+      <common>Słowacja</common>
+    </pol>
+    <por>
+      <official>República Eslovaca</official>
+      <common>Eslováquia</common>
+    </por>
+    <rus>
+      <official>Словацкая Республика</official>
+      <common>Словакия</common>
+    </rus>
+    <slk>
+      <official>Slovenská republika</official>
+      <common>Slovensko</common>
+    </slk>
+    <spa>
+      <official>República Eslovaca</official>
+      <common>República Eslovaca</common>
+    </spa>
+    <swe>
+      <official>Republiken Slovakien</official>
+      <common>Slovakien</common>
+    </swe>
+    <tur>
+      <official>Slovak Cumhuriyeti</official>
+      <common>Slovakya</common>
+    </tur>
+    <urd>
+      <official>جمہوریہ سلوواکیہ</official>
+      <common>سلوواکیہ</common>
+    </urd>
+    <zho>
+      <official>斯洛伐克共和国</official>
+      <common>斯洛伐克</common>
+    </zho>
+  </translations>
+  <latlng>48.66666666</latlng>
+  <latlng>19.5</latlng>
+  <landlocked>true</landlocked>
+  <borders>AUT</borders>
+  <borders>CZE</borders>
+  <borders>HUN</borders>
+  <borders>POL</borders>
+  <borders>UKR</borders>
+  <area>49037</area>
+  <demonyms>
+    <eng>
+      <f>Slovak</f>
+      <m>Slovak</m>
+    </eng>
+    <fra>
+      <f>Slovaque</f>
+      <m>Slovaque</m>
+    </fra>
+  </demonyms>
+  <flag>🇸🇰</flag>
+  <maps>
+    <googleMaps>https://goo.gl/maps/uNSH2wW4bLoZVYJj7</googleMaps>
+    <openStreetMaps>https://www.openstreetmap.org/relation/14296</openStreetMaps>
+  </maps>
+  <population>5458827</population>
+  <gini>
+    <_x0032_018>25</_x0032_018>
+  </gini>
+  <fifa>SVK</fifa>
+  <car>
+    <signs>SK</signs>
+    <side>right</side>
+  </car>
+  <timezones>UTC+01:00</timezones>
+  <continents>Europe</continents>
+  <flags>
+    <png>https://flagcdn.com/w320/sk.png</png>
+    <svg>https://flagcdn.com/sk.svg</svg>
+  </flags>
+  <coatOfArms>
+    <png>https://mainfacts.com/media/images/coats_of_arms/sk.png</png>
+    <svg>https://mainfacts.com/media/images/coats_of_arms/sk.svg</svg>
+  </coatOfArms>
+  <startOfWeek>monday</startOfWeek>
+  <capitalInfo>
+    <latlng>48.15</latlng>
+    <latlng>17.12</latlng>
+  </capitalInfo>
+  <postalCode>
+    <format>###  ##</format>
+    <regex>^(\d{5})$</regex>
+  </postalCode>
+</root>

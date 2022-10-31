@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DataConverter", "DataConverter\DataConverter.csproj", "{D98CC47C-60C3-4858-851B-DA67D389DD51}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataConverter.Tests", "DataConverter.Tests\DataConverter.Tests.csproj", "{785C9C06-E9D8-433E-A8B0-8D6EC84CFBCD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D98CC47C-60C3-4858-851B-DA67D389DD51}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D98CC47C-60C3-4858-851B-DA67D389DD51}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D98CC47C-60C3-4858-851B-DA67D389DD51}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D98CC47C-60C3-4858-851B-DA67D389DD51}.Release|Any CPU.Build.0 = Release|Any CPU
+		{785C9C06-E9D8-433E-A8B0-8D6EC84CFBCD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{785C9C06-E9D8-433E-A8B0-8D6EC84CFBCD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{785C9C06-E9D8-433E-A8B0-8D6EC84CFBCD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{785C9C06-E9D8-433E-A8B0-8D6EC84CFBCD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DC06B766-127B-4192-851D-0705F75F9251}
+	EndGlobalSection
+EndGlobal
